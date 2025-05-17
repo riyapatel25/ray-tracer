@@ -1,0 +1,3 @@
+/Users/riyapatel/CODE/ray-tracer/build/CMakeFiles/tracer.dir
+/Users/riyapatel/CODE/ray-tracer/build/CMakeFiles/edit_cache.dir
+/Users/riyapatel/CODE/ray-tracer/build/CMakeFiles/rebuild_cache.dir
